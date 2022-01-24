@@ -1,1 +1,3 @@
-config-prod--->v1.0
+config:
+  name: prod
+  version: 1.0
